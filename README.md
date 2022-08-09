@@ -17,7 +17,7 @@ Where as **[a-zA-Z+]** part is the *prefix* name of the file and **[\d{1,4}]** p
 ```
 Example: smallerCompanies-1000-1400.json
 ```
-This denotes a list of smaller companies by revenue that earned between *1 000 000 NOK* to *1 400 000NO K* (NOK = Norwegian currency).
+This denotes a list of smaller companies by revenue that earned between *1 000 000 NOK* to *1 400 000 NOK* (NOK = Norwegian currency).
 #
 ### Filter feature
 The scraper supports input for filtering out unwanted companies according to their industries, email domains and names. Simply fill up the arrays in the filterlists folder and the scraper does the rest. 
