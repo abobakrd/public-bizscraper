@@ -24,3 +24,5 @@ This denotes a list of smaller companies by revenue that earned between *1 000 0
 The scraper supports input for filtering out unwanted companies according to their industries, email domains and names. Simply fill up the arrays in the filterlists folder and the scraper does the rest. 
 
 ***The company industries must be in the correct format according to proff.no format system. See *title* property on the objects provided in this file: https://proff.no/proffIndustryTree.json***
+
+Clone and type *node scraper* in the root directory. You could also use PM2 to create more instances that run in paralell.
